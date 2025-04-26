@@ -84,10 +84,12 @@ flutter run
 lib/
 ├── models/             # Data models (Recipe, Batch, Inventory)
 ├── services/           # Firebase services and utilities
-├── screens/            # All screens and views
-├── widgets/            # Reusable UI components
 ├── providers/          # State management with Provider
-└── main.dart           # App entry point
+├── pages/                        # Main app screens and their subcomponents
+├── router/                       # App routing and navigation configuration
+├── theme/                        # App-wide styling, colors, and text themes
+├── utils/                        # Helper functions, constants, formatters, and extensions
+└── widgets/                      # Reusable UI widgets shared across multiple pages
 ```
 
 
