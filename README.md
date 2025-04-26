@@ -5,30 +5,16 @@ A Flutter + Firebase mobile application for hobbyists and professionals to creat
 ---
 ## Screens
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="screenshots/s1.png" alt="Screenshot 1" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s2.png" alt="Screenshot 2" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s3.png" alt="Screenshot 3" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s4.png" alt="Screenshot 4" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s5.png" alt="Screenshot 5" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s6.png" alt="Screenshot 6" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s7.png" alt="Screenshot 7" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s8.png" alt="Screenshot 8" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s9.png" alt="Screenshot 9" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s10.png" alt="Screenshot 10" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s11.png" alt="Screenshot 11" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s12.png" alt="Screenshot 12" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s13.png" alt="Screenshot 13" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s14.png" alt="Screenshot 14" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s15.png" alt="Screenshot 15" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s16.png" alt="Screenshot 16" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s17.png" alt="Screenshot 17" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s18.png" alt="Screenshot 18" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s19.png" alt="Screenshot 19" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s20.png" alt="Screenshot 20" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s21.png" alt="Screenshot 21" style="width: 100%; max-width: 200px; height: auto;">
-  <img src="screenshots/s22.png" alt="Screenshot 22" style="width: 100%; max-width: 200px; height: auto;">
-</div>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="screenshots/s1.png" width="300">  | <img src="screenshots/s2.png" width="300"> | <img src="screenshots/s3.png" width="300"> |
+| <img src="screenshots/s4.png" width="300">  | <img src="screenshots/s5.png" width="300"> | <img src="screenshots/s6.png" width="300"> |
+| <img src="screenshots/s7.png" width="300">  | <img src="screenshots/s8.png" width="300"> | <img src="screenshots/s9.png" width="300"> |
+| <img src="screenshots/s10.png" width="300"> | <img src="screenshots/s11.png" width="300"> | <img src="screenshots/s12.png" width="300"> |
+| <img src="screenshots/s13.png" width="300"> | <img src="screenshots/s14.png" width="300"> | <img src="screenshots/s15.png" width="300"> |
+| <img src="screenshots/s16.png" width="300"> | <img src="screenshots/s17.png" width="300"> | <img src="screenshots/s18.png" width="300"> |
+| <img src="screenshots/s19.png" width="300"> | <img src="screenshots/s20.png" width="300"> | <img src="screenshots/s21.png" width="300"> |
+| <img src="screenshots/s22.png" width="300"> |  |  |
 
 ## 📲 Features
 
