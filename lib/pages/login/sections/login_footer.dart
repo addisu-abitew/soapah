@@ -3,8 +3,6 @@ import 'package:go_router/go_router.dart';
 import 'package:soapah/router/app_routes.dart';
 import 'package:soapah/utils/size_utils.dart';
 
-import '../../../theme/custom_text_theme.dart';
-
 class LoginFooter extends StatelessWidget {
   const LoginFooter({super.key});
 
@@ -32,10 +30,6 @@ class LoginFooter extends StatelessWidget {
           ),
         ),
         SizedBox(height: 6.h),
-        Text(
-          '™© Serrenta Corporation and Robb Consulting Group Corporation',
-          style: CustomTextStyles.montserratSmallBlack900,
-        ),
       ],
     );
   }

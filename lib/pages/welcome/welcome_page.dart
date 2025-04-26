@@ -101,12 +101,7 @@ class WelcomePage extends StatelessWidget {
                 'By signing in you are accepting our Terms and Conditions and Privacy Policy',
                 style: CustomTextStyles.montserratSmallWhite900,
               ),
-              SizedBox(height: 1.h),
-              Text(
-                '™© Serrenta Corporation and Robb Consulting Group Corporation',
-                style: CustomTextStyles.montserratSmallWhite900,
-              ),
-              SizedBox(height: 3.h),
+              SizedBox(height: 6.h),
             ],
           ),
         ],
